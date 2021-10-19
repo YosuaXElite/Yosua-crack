@@ -3,8 +3,8 @@ pkg update && pkg upgrade
 $ pkg install git 
 
 $ pkg install ruby 
-
-$ git clone https://github.com/YosuaXElite/Yosua-crack
+https
+$ git clone https://github.com/YosuaXElite/crack-fb
 
 $ cd crack 
 
